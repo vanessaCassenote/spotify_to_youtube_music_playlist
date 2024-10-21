@@ -24,5 +24,5 @@ This are very simple python scripts to read a playlist from spotify and create i
 
 
 
-- References:
+References:
 https://engineeringfordatascience.com/posts/export_spotify_playlist_to_csv_using_python/
